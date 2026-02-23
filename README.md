@@ -47,7 +47,7 @@ Welcome to my GitHub! I am currently a 2nd-year BSc Computer Science student at 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakash0678&show_icons=true&theme=radical" alt="Aakash's GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash0678&theme=radical" alt="Aakash's GitHub Streak" />
 </div>
 
